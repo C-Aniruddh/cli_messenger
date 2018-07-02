@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "522902673626",
+    "firebase_url": "https://stealthchat2409.firebaseio.com",
+    "project_id": "stealthchat2409",
+    "storage_bucket": "stealthchat2409.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522902673626:android:0ca607efff153142",
+        "android_client_info": {
+          "package_name": "io.stealth.notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522902673626-pmtl6h0f3p7bq5md390hm7geahj0djlt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRTMgt5wz5CEiDwnfYboZZSmvK8SHL8mk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
